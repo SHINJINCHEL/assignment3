@@ -1,7 +1,7 @@
 # 제어공학1
 ### 2020732073 신진철 과제3
 -------------------------------------------------------------------------------------------
-![제어과제3-1](https://github.com/user-attachments/assets/61728f23-899d-4dfe-89f3-1fb903fdde79)
-![제어과제3-2](https://github.com/user-attachments/assets/19b53ab8-132d-45b1-a340-b6e7c22f3a0d)
-![제어과제3-3](https://github.com/user-attachments/assets/679d224a-c784-4d51-ac56-5c29a39c67f7)
-![제어과제3-4](https://github.com/user-attachments/assets/87ed4aa7-69bb-4b38-a13f-81a9be7a9f9d)
+![제어과제3-1](https://github.com/user-attachments/assets/3ec47e41-1d85-4641-8952-015b8d1d00b3)
+![제어과제3-2](https://github.com/user-attachments/assets/2b0f7670-f971-4a45-86e3-1a45fcc87887)
+![제어과제3-3](https://github.com/user-attachments/assets/ba42255c-ceba-4cb9-9461-196505f1e111)
+![제어과제3-4](https://github.com/user-attachments/assets/dc25650c-ee3c-4213-ba60-eb7e9ea11ebb)
